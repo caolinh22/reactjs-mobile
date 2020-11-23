@@ -1,10 +1,10 @@
 Cách chạy
 
 ```
-git clone https://github.com/hungdev/reactjs-k26.git
+git clone https://github.com/caolinh22/reactjs-mobile.git
 ```
 
-cd vào folder `reactjs-k26`
+cd vào folder `reactjs-mobile`
 
 chạy tiếp lệnh
 
@@ -17,10 +17,3 @@ sau đó chạy
 ```
 npm start
 ```
-
-
-b1: tao action type
-
-b2: tao action
-
-b3: tao reducer
